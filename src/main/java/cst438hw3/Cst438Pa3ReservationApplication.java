@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Cst438Pa3ReservationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Cst438Pa3ReservationApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(Cst438Pa3ReservationApplication.class, args);
+  }
 
 }
